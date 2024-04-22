@@ -1,3 +1,5 @@
+## Medical Costs Prediction
+
 Las aseguradoras de salud desempeñan un papel fundamental a nivel mundial, proporcionando una red de seguridad financiera esencial para los individuos ante enfermedades y emergencias médicas. Estas compañías operan bajo un modelo de negocio intrínsecamente ligado al riesgo, pues el momento y la severidad de las enfermedades de sus asegurados son inherentemente impredecibles. Para mantener su viabilidad y ofrecer un servicio de calidad, las aseguradoras deben no solo cubrir sus costos sino también generar ganancias.
 
 A pesar de la incertidumbre que rodea la frecuencia y el tipo de reclamaciones, ciertas condiciones de salud, hábitos de vida y características demográficas ofrecen indicativos valiosos que pueden ayudar a prever si un individuo podría representar un gasto mayor. En este contexto, los modelos predictivos emergen como herramientas cruciales, permitiendo a las aseguradoras estimar de manera aproximada los costos futuros asociados a cada asegurado. Estos modelos utilizan datos históricos y tendencias para predecir gastos, facilitando así una gestión más eficiente del riesgo.
